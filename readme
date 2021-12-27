@@ -1,0 +1,7 @@
+
+src folder contains the program main0.f90,main1.f90,main2.f90 and the module function.
+data_results is where results are stored.
+
+To compile write make in the terminal. You must be in the source where the makefile is located.
+Then command make run to execute. Results at data_results. make plot to plot.
+
